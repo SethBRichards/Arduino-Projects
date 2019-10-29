@@ -1,5 +1,12 @@
 # Arduino-Projects
-Contains arduino code, including code from my senior project transmitting data through a class-made "optical cable" + encryption
+Contains arduino code, including:
+
+-Code from my senior project transmitting data through a class-made "optical cable" + encryption
+  -
+  -
+-Code from an game I coded on a custom built Arduino Controller in Processing
+
+
 
 For an in-depth explanation of the code I wrote, see:
 
