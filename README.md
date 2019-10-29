@@ -2,6 +2,7 @@
 Contains arduino code, including:
 
 _Code from my senior project transmitting data through a class-made "optical cable" + encryption
+
 -Recieve_Code_Encrypted.ino
 -Transmit_Code_Encrypted.ino
 
@@ -14,7 +15,8 @@ _Code from my senior project transmitting data through a class-made "optical cab
 
 
 _Code from an game I coded on a custom built Arduino Controller in Processing
-  -colorSplashGameCode.pde
+ 
+ -colorSplashGameCode.pde
   -colorSplashGontrollerCode.ino (as soon as I find it)
 
 
